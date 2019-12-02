@@ -1,2 +1,2 @@
-# aurtomating-aws-with-python
+# automating-aws-with-python
 acloud.guru course 
